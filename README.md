@@ -2,5 +2,6 @@
 
 [![npm (scoped)]
 (https://img.shields.io/npm/v/touter.svg)]
-
-(https://img.shields.io/bundlephobia/min/touter)
+[![npm bundle size (minified)]
+(https://img.shields.io/bundlephobia/min/touter)]
+(https://github.com/nonstopper0/touter)
